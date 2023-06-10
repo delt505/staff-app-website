@@ -1,0 +1,15 @@
+{
+    "locale": "en",
+    "meta": {
+        "default_title": "Centox - Free Forum Software",
+        "favicon": "http://localhost:8080/favicon.svg",
+        "keywords": "Centox Forum Stuff",
+        "description": "Centox is a self-hosted solution for creating/managing forms and applications.",
+        "theme_color": "#0050ff",
+        "opengraph": {
+            "url": "http://localhost:8080",
+            "image": "http://localhost:8080/banner.png"
+        }
+    },
+    "logo": "http://localhost:8080/logo.svg"
+}
