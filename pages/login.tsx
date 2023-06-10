@@ -52,8 +52,8 @@ export default function Login() {
                     <DiscordLoginButton clientId={process.env.NEXT_PUBLIC_DISCORD_CLIENT_ID} redirectUri={process.env.NEXT_PUBLIC_DISCORD_CLIENT_REDIRECT_URI}/>
                 </Box>
                 <Box sx={{ display: 'flex', justifyContent: 'center' }}>
-                    <Anchor href="https://github.com/simonmaribo/centox" target='_blank' color='gray' size='xs'>
-                        © {new Date().getFullYear()} Centox - A Open Source Project.
+                    <Anchor href="https://mfjobs.delt.gay" target='_blank' color='gray' size='xs'>
+                        © {new Date().getFullYear()} MINEFOREST.
                     </Anchor>
                 </Box>
             </Center>
