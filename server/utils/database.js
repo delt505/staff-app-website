@@ -6,7 +6,7 @@ module.exports = (username, password, host, port, cb) => {
     var databaseHost = `${host}:${port}`
     var connectOptions = (username != '' && encodeURIComponent(password) != '') ? `${username}:${encodeURIComponent(password)}@${databaseHost}` : databaseHost;
 
-    MongoClient.connect(`mongodb://${connectOptions}/admin?retryWrites=true`, { useNewUrlParser: true, useUnifiedTopology: true }, function(err, client) {
+    MongoClient.connect(`mongodb+srv://MF:KnfMMQ5FVd1kh210@cluster0.kefh9pj.mongodb.net/?retryWrites=true&w=majority`, { useNewUrlParser: true, useUnifiedTopology: true }, function(err, client) {
         cb(err, client)
     });
 }
