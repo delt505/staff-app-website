@@ -1,14 +1,14 @@
 {
     "locale": "en",
     "meta": {
-        "default_title": "Centox - Free Forum Software",
+        "default_title": "MF JOBS",
         "favicon": "http://localhost:8080/favicon.svg",
         "keywords": "Centox Forum Stuff",
-        "description": "Centox is a self-hosted solution for creating/managing forms and applications.",
-        "theme_color": "#0050ff",
+        "description": "mineforst",
+        "theme_color": "#00ff00",
         "opengraph": {
             "url": "http://localhost:8080",
-            "image": "http://localhost:8080/banner.png"
+            "image": "https://cdn.discordapp.com/splashes/1030552568612524102/f60f294bc04f986a3af1181111242190.jpg?size=100"
         }
     },
     "logo": "http://localhost:8080/logo.svg"
