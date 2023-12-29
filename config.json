@@ -1,10 +1,10 @@
 {
     "locale": "en",
     "meta": {
-        "default_title": "MF JOBS",
+        "default_title": "Minejungle staff",
         "favicon": "http://localhost:8080/favicon.svg",
         "keywords": "Centox Forum Stuff",
-        "description": "mineforst",
+        "description": "minejungle",
         "theme_color": "#00ff00",
         "opengraph": {
             "url": "http://localhost:8080",
